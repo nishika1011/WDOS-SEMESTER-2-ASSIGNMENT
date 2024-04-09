@@ -1,0 +1,29 @@
+{
+  "leopard-background": {
+    "territories-title": "Big Cat Territories"
+  },
+  "venue-heading": {
+    "leopard-havens-title": "Leopard Havens in Sri Lanka"
+  },
+  "venues-section": {
+    "venue1": {
+      "venue1-title": "Yala National Park",
+      "venue1-description": "Yala National Park, situated in the southeastern corner of Sri Lanka, is renowned for its diverse wildlife, and leopards are one of its star attractions. The park boasts a healthy leopard population, offering visitors a unique opportunity to witness these elusive big cats in their natural habitat. Yala's varied landscapes, including dense jungles, open grasslands, and coastal areas, provide an ideal environment for leopards to thrive. The park's leopard density is among the highest in the world, making it a prime destination for wildlife enthusiasts and photographers."
+    },
+    "venue2": {
+      "venue2-title": "Wilpattu National Park",
+      "venue2-description": "Wilpattu National Park, located in the northwest of Sri Lanka, is the largest national park in the country and a haven for wildlife, including the majestic leopard. The park's diverse ecosystems, encompassing dense forests, scrublands, and serene lakes, create an ideal setting for leopards to roam freely. Wilpattu is known for its unique natural lakes called villus, where leopards often come to quench their thirst. Visitors to Wilpattu have the chance to encounter leopards in their natural surroundings, adding to the park's allure as a top wildlife destination."
+    },
+    "venue3": {
+      "venue3-title": "Kumana National Park",
+      "venue3-description": "Kumana National Park, situated on the southeastern coast of Sri Lanka, is renowned for its avian diversity, but it also provides a habitat for leopards. The park's combination of wetlands, lagoons, and dry forests creates a unique environment that supports a variety of wildlife, including leopards. While leopards may be more challenging to spot in Kumana compared to some other parks, the opportunity to see these elusive predators adds an exciting dimension to the park's rich biodiversity. Visitors can experience the thrill of encountering leopards alongside a wealth of bird species in Kumana National Park."
+    }
+  },
+  "threat-section": {
+    "threat-title": "Leopard Threats and Conservation Efforts",
+    "threat-description": "The existence of leopards, the magnificent big cats that are indigenous to Sri Lanka, is threatened by numerous obstacles. This section examines the two main threats that these elusive animals face and the current conservation initiatives meant to lessen the risks associated with them. We hope to raise awareness of the urgent problems pertaining to leopard conservation in Sri Lanka and emphasize the vital actions done to protect these amazing animals for future generations by providing insightful descriptions, powerful images, and connections to pertinent conservation organizations."
+  },
+  "leopard-links": {
+    "links-info-para": "For more information, please visit the provided links below."
+  }
+}

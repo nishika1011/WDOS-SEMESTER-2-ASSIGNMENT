@@ -1,0 +1,31 @@
+{
+  "title": "Untamed Sri Lanka",
+  "introParagraph": "The wildlife of Sri Lanka is a captivating variety of biodiversity, unfolding within the lush landscapes of the island shaped like a teardrop in the Indian Ocean.With an unmatched diversity of flora and fauna, this tropical haven is a wildlife enthusiast's and nature lover's paradise.Many different kinds of animals find homes in Sri Lanka's varied ecosystems, which range from expansive grasslands and dense rainforests to unspoiled coastal areas. Remarkable fauna inhabits the island, such as the majestic Asian elephant, the elusive Sri Lankan leopard, and an incredible array of birds that fill the air with melodious calls.Outside of the fascinating megafauna, Sri Lanka is home to an abundance of endemic species that are unique to our planet. Every region on the island offers a different chapter in the evolution of life, from the vivid colours of endemic birds like the Sri Lanka Junglefowl to the mysterious beauty of amphibians and reptiles.",
+  "rainforest": {
+    "heading": "Tropical Rainforests in Sri Lanka",
+    "description": "Among the remarkable ecological diversity of  Sri Lanka, an island nation  in the Indian Ocean,  a particularly noteworthy feature is the rainforests, which provide a rich andvibrant havenof biodiversity.These rainforests are primarily located in the southwestern part of the island and are characterized by large trees, rich vegetation, and a variety of rare plants and animals.",
+    "list": [
+      "Draws interest from nature enthusiasts and ecotourists due to its rich biodiversity.",
+      "Provides an opportunity for visitors to experience the beauty of untouched natural ecosystems.",
+      "Plays a role in regulating climate by influencing rainfall patterns."
+    ]
+  },
+  "corals": {
+    "heading": "Coral Reefs of Sri Lanka",
+    "description": "he colorful coral reefs on Sri Lanka's beautiful coastline are thriving ecosystems full of color and life.These underwater wonderlands are mainly located along  the southwest and southeast coasts, near popular tourist destinations like Hikkaduwa and Trincomalee.From intricate coral polyps to schools of colorful fish,  coral formations provide essential habitat for a wide variety of marine life.Divers and snorkellers alike can enjoy the kaleidoscopic underwater beauty of the incredible diversity of marine  life that inhabits the underwater caves and coral gardens.",
+    "list": [
+      "Sri Lanka is home to diverse and vibrant coral reefs along its coastline.",
+      "Sri Lanka's coral reefs are renowned for their high biodiversity, containing a diverse array of coral species and marine life.",
+      "The island's tourism industry heavily relies on these ecosystems, attracting divers and snorkelers to explore the diverse underwater biodiversity."
+    ]
+  },
+  "fauna": {
+    "heading": "Unique Fauna and Flora",
+    "description": "Sri Lanka's rich flora and fauna span a wide range of ecosystems, from lush rainforests to arid plains.The island is known for its amazing biodiversity, with many endemic species found only on this island.A variety of endemic bird species, including the vibrant Sri Lankan jungle fowl and leopard, are part of Sri Lanka's iconic fauna.This rich diversity, found in the island's national parks such as Yala and Wilpattu, makes Sri Lanka  a paradise for nature and animal lovers.",
+    "list": [
+      "Sri Lanka boasts incredible biodiversity with a high number of endemic species found nowhere else on the planet.",
+      "The island is home to the Sri Lankan jungle fowl and the elusive Sri Lankan leopard, both endemic to Sri Lanka.",
+      "The island's diverse ecosystems, ranging from lush rainforests to arid plains, significantly enrich its flora and fauna."
+    ]
+  }
+}

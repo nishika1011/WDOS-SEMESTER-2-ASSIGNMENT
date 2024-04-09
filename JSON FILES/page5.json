@@ -1,0 +1,25 @@
+{
+  "animalBackground": {
+    "heading": "Variety in the Wild: Animals of Sri Lanka"
+  },
+  "animalIntro": {
+    "heading": "Indigenous animals in Sri Lanka",
+    "paragraph": "Sri Lanka is home to a diverse array of indigenous animals, many of which are unique to the island. The rich ecosystems, ranging from dense rainforests to arid plains, provide habitats for a remarkable variety of fauna. Some notable indigenous animals include:"
+  },
+  
+  
+  "cardConclusion": {
+    "paragraph": "In conclusion, the rich biodiversity of the island is highlighted by the wide variety of native animals found in Sri Lanka, including the magnificent Sri Lankan Elephant, the elusive Purple-faced Langur, and the unusual Indian Pangolin. It is essential to preserve their habitats and put into place efficient conservation measures in order to maintain this rare species."
+  },
+    "button-container": [
+       {
+         "text": "Discover Yala National Park",
+         "href": "yala.html"
+       },
+       {
+         "text": "Explore Wilpattu National Park",
+         "href": "wilpattu.html"
+       }
+    ]
+   }
+

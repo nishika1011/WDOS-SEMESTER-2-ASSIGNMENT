@@ -1,0 +1,79 @@
+{
+  "cBackground": {
+     "heading": "Wildlife Conservation Department"
+  },
+  "conservation": {
+     "heading": "Department of Wildlife Conservation",
+     "paragraph": "The Department of Wildlife Conservation in Sri Lanka is a governmental organization dedicated to the preservation, protection, and sustainable management of the country's rich and diverse wildlife. Established with the primary objective of safeguarding the natural heritage of Sri Lanka, the department plays a crucial role in maintaining ecological balance, conserving habitats, and ensuring the survival of various species, includingendemic and endangered ones."
+  },
+  "mission": {
+     "heading": "Mission and Goals",
+     "paragraph": "The Department of Wildlife Conservation in Sri Lanka is entrusted with the vital missionof conserving and safeguarding the rich biodiversity that graces the island nation. The primary goals of the department revolve around preserving the unique flora and fauna, maintaining ecological balance, and ensuring sustainable practices for future generations."
+  },
+  "responsibilities": {
+     "heading": "Our Responsibilities",
+     "paragraph": "Habitat Conservation, here, we are actively involved in the management and conservation of various ecosystems.These include sensitive ecosystems such as wetlands, coastal areas, and rainforests.In this way, the ministry hopes to protect these natural habitats and create a safe haven for the country's diverse wildlife."
+  },
+  
+  "achievements": {
+     "heading": "Achievments",
+     "paragraph": "Wildlife conservation agencies have made significant progress in establishing efficient conservation measures, supporting ethical ecotourism, and supporting the recovery of some species. The Ministry's commitment to the protection of Sri Lanka's unique natural heritage is evidenced by  recognition of its efforts at national and international levels."
+  },
+
+    "flexGallery": {
+       "heading": "Protected Areas",
+       "paragraph": "In order to preserve the abundant and varied wildlife of Sri Lanka, protected areas must be managed, and this is the responsibility of the Department of Wildlife Conservation. Numerous species, including endemic and endangered ones, have sanctuaries in these areas. In order to preserve ecological balance and guarantee the survival of Sri Lanka's distinctive flora and fauna, it is imperative that these natural habitats be protected.",
+       "images": [
+           {
+               "src": "images/flex1-knuckles.jpeg",
+               "alt": "flex-1",
+               "description": "Knuckles Mountain Range"
+           },
+           {
+               "src": "images/flex2wasgamuwa.jpeg",
+               "alt": "flex-2",
+               "description": "Wasgamuwa National Park"
+           },
+           {
+               "src": "images/flex3kumana.jpg",
+               "alt": "flex-3",
+               "description": "Kumana National Park"
+           },
+           {
+               "src": "images/flex4-minneriya.jpeg",
+               "alt": "flex-4",
+               "description": "Minneriya National Park"
+           },
+           {
+               "src": "images/madura-oya-flex.webp",
+               "alt": "flex-5",
+               "description": "Maduru Oya National Park"
+           },
+           {
+               "src": "images/galoya-flex.jpeg",
+               "alt": "flex-7",
+               "description": "Gal-Oya National Park"
+           },
+           {
+               "src": "images/flex5-sinharaja.jpg",
+               "alt": "flex-5",
+               "description": "Sinharaja Forest Reserve"
+           },
+           {
+               "src": "images/flex6-bundala.jpeg",
+               "alt": "flex-6",
+               "description": "Bundala National Park"
+           },
+           {
+               "src": "images/hortain1.jpg",
+               "alt": "flex-7",
+               "description": "Hortain Plains National Park"
+           }
+       ]  
+    },
+    "map-heading": {
+        "map-heading": "Department of Wildlife Conservation Map"
+        
+     }
+  }
+   

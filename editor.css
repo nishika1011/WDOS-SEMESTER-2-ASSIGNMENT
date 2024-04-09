@@ -1,0 +1,65 @@
+/* Reset default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 800px; /* Increased max-width for a wider layout */
+  margin: 50px auto;
+  padding: 40px 30px; /* Increased padding for more spacing */
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Added a stronger shadow */
+}
+
+.container h2 {
+  margin-bottom: 30px; /* Increased margin for more separation */
+  font-size: 2rem; /* Larger font size */
+  color: #333;
+}
+
+.container h3 {
+  margin-top: 30px; /* Increased margin for more separation */
+  margin-bottom: 20px; /* Increased margin for more separation */
+  font-size: 1.5rem; /* Larger font size */
+  color: #333;
+}
+
+.textarea,
+.selection {
+  width: calc(100% - 22px);
+  padding: 15px;
+  margin-bottom: 25px; /* Increased margin for more separation */
+  border: none;
+  border-radius: 10px;
+  background-color: #f7f7f7; /* Lighter background color */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); /* Added a lighter shadow */
+}
+
+button {
+  padding: 15px 30px; /* Increased padding for a larger button */
+  margin-top: 25px; /* Increased margin for more separation */
+  background-color: #4CAF50; /* Green color */
+  color: #fff;
+  border: none;
+  border-radius: 30px; /* Rounder border */
+  cursor: pointer;
+  font-size: 1.2rem; /* Larger font size */
+  text-transform: uppercase; /* Uppercase text */
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049; /* Darker green color on hover */
+}
+
+button#save {
+  margin-left: 20px; /* Increased margin for more separation */
+}

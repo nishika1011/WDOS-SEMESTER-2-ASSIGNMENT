@@ -1,0 +1,38 @@
+{
+  "about": {
+      "title": "Diverse Wildlife Sanctuaries Across Sri Lanka.",
+      "paragraph": "While Yala and Wilpattu rightly claim the spotlight, Sri Lanka's wildlife wonders extend farbeyond. Let's embark on a journey to lesser-known locations, each unveiling its unique charmand a rich tapestry of flora and fauna."
+  },
+  "sinharaja": {
+      "title": "Sinharaja Forest Reserve",
+      "description": "Location: Southern Province.Description: Sinharaja is a spectacular wetland rainforest in Sri Lanka and a UNESCO World Heritage Site. Home to rare species such as the Sri Lankan leopard and purple langur, it is known for its unparalleled biodiversity. The dense canopy of a forest is home to native plants, allowing researchers to use the forest as a living laboratory. Crystal clear waterfalls and streams  add to its charm. Guided tours highlight the importance of conservation by gaining insight into this ecological treasure."
+  },
+  "horton": {
+      "title": "Horton Plains National Park",
+      "description": "Location: Central Province, Sri Lanka.Description: UNESCO has designated Houghton Plain, a protected area in the Central Highlands, as a World Heritage Site. It is known for its unique ecosystem, including vast grasslands, misty valleys, and abundant wildlife. The park has breathtaking scenery, including the famous World's End Escarpment, and is home to the endangered Sambhar deer and purple langur. Explore the natural wonders of this plateau by exploring the well-maintained hiking trails."
+  },
+  "knuckles": {
+      "title": "Knuckles Mountain Range",
+      "description": "Location: Central and Matale Districts, Sri Lanka.Description: A striking landscape in central Sri Lanka is the Knuckles Mountains, a UNESCO World Heritage Site. It is rich in flora and fauna, and is known for its pristine topography and diverse ecosystem. Hiking trails in the mountains offer views of mist-shrouded valleys, roaring waterfalls, and expansive views. The Knuckles Range is a paradise for nature lovers and those seeking an intense mountain experience, known for its high biodiversity and unique topography. "   
+  },
+  "table":[
+      {
+        "location": "Sinharaja",
+        "animals": ["Purple Langur", "Blue Magpie"],
+        "facts": ["Fact 1", "Fact 2"],
+        "images": ["images/monkeypic.jpg", "images/bluemagpie-pic.jpeg"]
+      },
+      {
+        "location": "Horton",
+        "animals": ["Sambar Deer", "Loris"],
+        "facts": ["Fact 3", "Fact 4"],
+        "images": ["images/sambardeer.jpeg", "images/lorris2.jpg"]
+      },
+      {
+        "location": "Knuckles",
+        "animals": ["Royal Frog", "Pigeon"],
+        "facts": ["Fact 5", "Fact 6"],
+        "images": ["images/royal.frog.jpg", "images/piegon.jpeg"]
+      }
+    ]
+}
